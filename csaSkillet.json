@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "name": "Alice Johnson",
+      "solution area": "Infrastructure",
+      "skills": ["Azure", "Kubernetes", "Terraform"]
+    },
+    {
+      "name": "Bob Smith",
+      "solution area": "Data / AI",
+      "skills": ["CI/CD", "Docker", "Linux"]
+    },
+    {
+      "name": "Carol Lee",
+      "solution area": "App Innovation",
+      "skills": ["Identity Management", "Threat Analysis", "Zero Trust"]
+    }
+  ]
+}
