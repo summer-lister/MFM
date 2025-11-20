@@ -1,4 +1,65 @@
 {   
+    "availableSkillsets": [
+    // DATA/AI
+    "RELATIONAL DATABASES",
+    "NON RELATIONAL DATABASES",
+    "DATA ENGINEERING", // DATA FACTORY, DATABRICKS, SYNAPSE
+    "DATA ANALYTICS", // POWER BI, KUSTO
+    "DATA SCIENCE", // MACHINE LEARNING, AI
+    "FABRIC",
+    "KQL",
+
+    // INFRASTRUCTURE
+    "AZURE ARC",
+    "AZURE NETWORKING", //AZURE VPN, EXPRESS ROUTE, LOAD BALANCER, APPLICATION GATEWAY, VNET
+    "NETWORK SECURITY", // AZURE FIREWALL, NSG, DDoS, FRONT DOOR, APPLICATION GATEWAY
+    "BCDR", // SITE RECOVERY, BACKUP
+    "AZURE MONITOR",
+    "STORAGE SOLUTIONS",
+    "HPC",
+    "AVS", // AZURE VMWARE SOLUTION
+    "SAP",
+    "BATCH",
+    "COST OPTIMIZATION",
+    "DNS",
+    "CAF/WAF", // CLOUD ADOPTION FRAMEWORK / WELL ARCHITECTED FRAMEWORK
+    "AZURE MIGRATE"
+
+    // APP INNOVATION
+    "APP SERVICES",
+    "EVENT-DRIVEN SOLUTIONS", // EVENTHUB, SERVICE BUS, EVENT GRID, FUNCTIONS, LOGIC APPS
+    "ADO",
+    "GITHUB",
+    "APIM",
+    "FOUNDRY",
+    "CONTAINER SOLUTIONS", // AKS, ACI, SPRING APPS
+
+    // AUTOMATION
+    "ARM",
+    "BICEP",
+    "TERRAFORM",
+    "POWERSHELL",
+    "BASH",
+
+    // SECURITY
+    "DEFENDER FOR CLOUD",
+    "ENTRA",
+    "PURVIEW"
+    
+  ],
+
+  "availableSolutionAreas": [
+    "Data / AI",
+    "Infrastructure",
+    "App Innovation"
+  ],
+
+  "availableSubVerticals": [
+    "Cloude AI",
+    "Discrete",
+    "Process / High Tech"
+  ],
+    
     "employees": [
     {
       "name": "Tom Vachon",
