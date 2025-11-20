@@ -6,7 +6,7 @@ Our goal is to build a stronger team by learning from each other, collaborating 
 **Instructions**
 1. Find your skillset(s) under the catagories listed below
 2. Edit the *[cloudAISkillset.json](https://github.com/summer-lister/MFM/blob/main/cloudAISkillet.json)* file, navigate to your name and :
-    - add your skillsets in the provided array (see example below)
+    - add your skillsets in the provided array (see example below) :arrow_down:
     - add your solution area
 ---
 **example📝**
