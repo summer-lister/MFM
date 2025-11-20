@@ -1,0 +1,85 @@
+{   
+    "employees": [
+    {
+      "name": "Tom Vachon",
+      "solution area": "Infrastructure",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Ram Madhurakavi",
+      "solution area": "Data / AI",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Shriram Krishnamurthy",
+      "solution area": "Infrastructure",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Darren Ball",
+      "solution area": "",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Brian Cheng",
+      "solution area": "App Innovation",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Dhanaji More",
+      "solution area": "Data / AI",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Chris House",
+      "solution area": "App Innovation",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Rodney Elmore",
+      "solution area": "Data / AI",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Brad Lovas",
+      "solution area": "Infrastructure",
+      "sub-vertical": "Cloud AI",
+      "skillsets": ["BCDR", "AZURE MONITOR", "CAF/WAF", "AZURE ARC"]
+    },
+    {
+      "name": "Summer Lister",
+      "solution area": "Infrastructure",
+      "sub-vertical": "Cloud AI",
+      "skillsets": ["TERRAFORM", "NETWORK SECURITY", "AZURE NETWORKING"]
+    },
+    {
+      "name": "Jack Bender",
+      "solution area": "Data / AI",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Pratap Cheekati",
+      "solution area": "Infrastructure",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    },
+    {
+      "name": "Mike Rhoads",
+      "solution area": "Infrastructure",
+      "sub-vertical": "Cloud AI",
+      "skillsets": []
+    }
+
+  ]
+}
+
+
